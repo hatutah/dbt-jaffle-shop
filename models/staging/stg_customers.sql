@@ -1,3 +1,5 @@
+-- staging model for customer data
+
 with
 
 source as (
